@@ -1,3 +1,7 @@
 hdcchdhdjcs
+<<<<<<< Updated upstream
 ASCJKBSDJKCBJKSDCBJK
 HELLO!!!!!!!!!
+=======
+RAAAAMMMM!!!!!!!!!!!!
+>>>>>>> Stashed changes
